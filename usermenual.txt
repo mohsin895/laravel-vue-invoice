@@ -1,0 +1,7 @@
+install laravel
+npm install vue-loader@next vue@next vue-router@next
+
+npm install @vitejs/plugin-vue --force
+vita js config
+confug app.js
+config welcome.blade.php
